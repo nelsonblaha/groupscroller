@@ -1,7 +1,5 @@
-# play-heroku-seed README
-You can try a deployed instance of the app here: https://afternoon-wildwood-5782.herokuapp.com/
-
-This application is meant to make it easier to create a Play application with basic Create, Read, Update and Delete functionality and get it up onto Heroku. Database manipulation is handled by Slick connected to PostgreSQL. 
+# groupscroller README
+This project is based on the play-heroku-seed app by mkbehbehani at https://github.com/mkbehbehani/play-heroku-seed  
 
 ## Getting started
 
@@ -11,7 +9,7 @@ This application is meant to make it easier to create a Play application with ba
 - [PostgreSQL full documentation](http://www.postgresql.org/docs/9.3/interactive/)
 - Run `psql`
 - Set up a development database, note the underscores:
-`CREATE DATABASE play_heroku_seed;`
+`CREATE DATABASE groupscroller;`
 - Confirm the database has been created by looking at the database list
 `\l`
 
